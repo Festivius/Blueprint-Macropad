@@ -1,4 +1,4 @@
-[image](assets/full.png)
+![image](assets/full.png)
 
 ### BOM
 
